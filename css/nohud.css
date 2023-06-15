@@ -1,0 +1,2 @@
+/* hides the hud, primarily used for taking screenshots or videos */
+.game-interface {display: none !important;}
